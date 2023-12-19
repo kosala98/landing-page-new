@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="container-fluid p-0">
       <div className="position-relative hero-section">
-        <img src={Hero1} alt="Hero Image" className="img-fluid" />
+        <img src={Hero1} alt="" className="img-fluid" />
 
         <div className="position-absolute border-0 custom-rectangle px-3">
           <h1 className="p-4 text-white fw-bold ">

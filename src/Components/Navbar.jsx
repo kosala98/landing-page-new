@@ -13,7 +13,7 @@ const Navbar = () => {
         </a>
 
         <button
-          className="navbar-toggler"
+          className="navbar-toggler ms-auto"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNav"
@@ -25,10 +25,10 @@ const Navbar = () => {
         </button>
 
         <div
-          className="collapse navbar-collapse justify-content-end"
+          className="collapse navbar-collapse justify-content-end ms-auto"
           id="navbarNav"
         >
-          <ul className="navbar-nav">
+          <ul className="navbar-nav ">
             <li className="nav-item">
               <a href="#1" className="nav-link menu-color">
                 SERVICES

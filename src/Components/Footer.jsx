@@ -21,57 +21,38 @@ const Footer = () => {
 
         <div className="col mb-3"></div>
 
-        <div className="col mb-3">
-          <h5></h5>
-          <ul className="nav flex-column">
-            <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-body-secondary"></a>
-            </li>
-            <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-body-secondary"></a>
-            </li>
-            <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-body-secondary"></a>
-            </li>
-            <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-body-secondary"></a>
-            </li>
-            <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-body-secondary"></a>
-            </li>
-          </ul>
-        </div>
+        <div className="col mb-3"></div>
 
         <div className="col mb-3">
           <h5 className="text-white mb-3 mt-4">Our Technologies</h5>
           <ul className="nav flex-column">
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#1" className="nav-link p-0 text-white">
                 ReactJS
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#2" className="nav-link p-0 text-white">
                 Gatsby
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#3" className="nav-link p-0 text-white">
                 NextJS
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#4" className="nav-link p-0 text-white">
                 NodeJS
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#5" className="nav-link p-0 text-white">
                 GraphQL
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#6" className="nav-link p-0 text-white">
                 Laravel
               </a>
             </li>
@@ -82,27 +63,27 @@ const Footer = () => {
           <h5 className="text-white mb-3 mt-4">Our Services</h5>
           <ul className="nav flex-column">
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#1" className="nav-link p-0 text-white">
                 Social media Marketing
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#2" className="nav-link p-0 text-white">
                 Web & Mobile App Development
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#3" className="nav-link p-0 text-white">
                 Data & Analytics
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#4" className="nav-link p-0 text-white">
                 Google Marketing solutions
               </a>
             </li>
             <li className="nav-item mb-2">
-              <a href="#" className="nav-link p-0 text-white">
+              <a href="#5" className="nav-link p-0 text-white">
                 Search Engine Optimization
               </a>
             </li>

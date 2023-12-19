@@ -30,22 +30,22 @@ const Navbar = () => {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a href="#" className="nav-link menu-color">
+              <a href="#1" className="nav-link menu-color">
                 SERVICES
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link menu-color">
+              <a href="#2" className="nav-link menu-color">
                 ABOUT US
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link menu-color">
+              <a href="#3" className="nav-link menu-color">
                 CONTACT US
               </a>
             </li>
             <li className="nav-item">
-              <a href="#" className="nav-link menu-color">
+              <a href="#4" className="nav-link menu-color">
                 CAREERS
               </a>
             </li>

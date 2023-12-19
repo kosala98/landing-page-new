@@ -1,0 +1,80 @@
+:root {
+    --background:#6B3CC9;
+    --text-color:#FFFFFF;
+
+}
+
+.header {
+    background-color: var(--background);
+}
+
+.menu-color {
+    color: var(--text-color);
+    font-family: 'Inter', sans-serif;
+}
+
+.button-1 {
+    border-radius: 4px;
+    background: #F28D35;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: -0.28px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.footer-container {
+    background-color: var(--background);
+}
+
+.logo-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.terms p{
+    font-family: 'Inter', sans-serif;
+}
+
+.about-container h1{
+    color: #6B3CC9;
+    font-family: 'Poppins', sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4px;
+}
+
+.about-container p {
+    color: #000;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.custom-rectangle {
+    top: 494px;
+    left: 80px;
+    width: 630px;
+    height: 306px;
+    background: linear-gradient(257deg, #1CBDDD 27.86%, #4DCA79 100%), #FFF;
+}
+
+.custom-rectangle h1 {
+    font-size: 48px;
+    letter-spacing: -0.96px;
+    line-height: 100%;
+}
+
+.hero-btn {
+    background: #F28D35;
+    height: 38px;
+    width: 256px;
+    font-family: 'Inter', sans-serif;
+}

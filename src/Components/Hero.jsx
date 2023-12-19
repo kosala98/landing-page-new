@@ -8,7 +8,7 @@ const Hero = () => {
         <img src={Hero1} alt="" className="img-fluid" />
 
         <div className="position-absolute border-0 custom-rectangle px-3">
-          <h1 className="p-4  text-white fw-bold ">
+          <h1 className="p-4 text-white fw-bold ">
             We Crush Your Competitors, Goals, And Sales Records - Without The
             B.S.
           </h1>
